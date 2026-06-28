@@ -16,3 +16,23 @@ body{
     font-family:Arial, sans-serif;
     line-height:1.6;
 }
+/* Header */
+
+header{
+    background:#111111;
+    padding:25px;
+    text-align:center;
+    border-bottom:2px solid gold;
+}
+
+header h1{
+    color:gold;
+    font-size:36px;
+    letter-spacing:2px;
+    margin-bottom:10px;
+}
+
+header p{
+    color:#dddddd;
+    font-size:18px;
+}
