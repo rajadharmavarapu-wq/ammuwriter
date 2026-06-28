@@ -36,3 +36,26 @@ header p{
     color:#dddddd;
     font-size:18px;
 }
+/* Hero Section */
+
+.hero{
+    max-width:900px;
+    margin:50px auto;
+    padding:40px;
+    background:#111111;
+    border:2px solid gold;
+    border-radius:12px;
+    text-align:center;
+}
+
+.hero h2{
+    color:gold;
+    font-size:32px;
+    margin-bottom:20px;
+}
+
+.hero p{
+    color:#dddddd;
+    font-size:18px;
+    margin-bottom:30px;
+}
